@@ -8,7 +8,7 @@ Rock Paper Scissors
 
 ![Screenshot of game](screenshot.png)
 
-An one page rock paper scissors built with Jquery javascript with a sinatra backend. Served as a introduction to 
+An one page rock paper scissors built with Jquery, Javascript and a sinatra backend. Served as a introduction to 
 OOP and TTD in javascript
 
 [Click here](https://bens-rps.herokuapp.com/) to check it out on heroku
